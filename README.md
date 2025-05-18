@@ -36,3 +36,13 @@ A custom hand-wired 3x3 macropad powered by an Arduino Pro Micro, featuring per-
 
 
 ## Gallery
+![IMG_2348](https://github.com/user-attachments/assets/b7010237-5eb6-4eb2-9e43-4533174f54a0)
+![IMG_2376](https://github.com/user-attachments/assets/f78f1cf6-9596-426c-8d02-db7d184aec83)![IMG_2371](https://github.com/user-attachments/assets/55f799e5-5cea-42d4-a950-dbac7baa804a)![IMG_2369](https://github.com/user-attachments/assets/aa1de912-7f17-472c-9242-be0b2a8743d3)![IMG_2365](https://github.com/user-attachments/assets/1c754315-a9b8-43f5-a453-9f411bb7bb7c)
+![IMG_2360](https://github.com/user-attachments/assets/9b871a65-d439-4f7c-a59e-3adb658b8133)
+![IMG_2331](https://github.com/user-attachments/assets/b841c50f-0848-45cf-9d8e-9ff84e5b2f2b)![IMG_1734](https://github.com/user-attachments/assets/cd5dc237-0d2e-4df3-a51f-d95576c4d81d)![IMG_1732](https://github.com/user-attachments/assets/ee078d86-f979-44db-be75-53a53290e4cb)
+
+
+
+
+
+
