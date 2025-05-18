@@ -1,0 +1,74 @@
+{
+    "manufacturer": "Goose",
+    "keyboard_name": "ThreeByThree",
+    "maintainer": "CGoose24",
+    "development_board": "promicro",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "rgb_matrix": true
+    },
+
+    "rgb_matrix": {
+        "animations": {
+            "gradient_up_down": true,
+            "gradient_left_right": true,
+            "breathing": true,
+            "band_sat": true,
+            "band_val": true,
+            "cycle_all": true,
+            "cycle_left_right": true,
+            "cycle_up_down": true,
+            "rainbow_moving_chevron": true,
+            "cycle_out_in": true,
+            "cycle_out_in_dual": true,
+            "dual_beacon": true,
+            "rainbow_beacon": true,
+            "raindrops": true,
+            "pixel_fractal": true,
+            "typing_heatmap": true,
+            "solid_reactive": true,
+            "solid_reactive_multiwide": true,
+            "solid_reactive_multinexus": true,
+            "splash": true,
+            "multisplash": true,
+            "solid_splash": true,
+            "solid_multisplash": true
+        }
+    },
+    "ws2812": {
+    "pin": "B6"
+    },
+
+    "matrix_pins": {
+        "cols": ["D1", "B3", "B2"],
+        "rows": ["E6", "B4", "B5"]
+    },
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1},
+                {"matrix": [2, 0], "x": 0, "y": 2},
+                {"matrix": [2, 1], "x": 1, "y": 2},
+                {"matrix": [2, 2], "x": 2, "y": 2}
+
+            ]
+        }
+    }
+}
