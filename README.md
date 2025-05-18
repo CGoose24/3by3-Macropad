@@ -1,6 +1,6 @@
 #  3x3 Macropad
 
-A custom hand-wired 3x3 macropad powered by an Arduino Pro Micro, featuring per-key WS2812B RGB LED lighting and QMK firmware. Built for workflow customization, coding shortcuts, and just a fun hardware project!
+A custom hand-wired 3x3 macropad powered by a Pro Micro microcontroller, featuring per-key WS2812B RGB LED lighting and QMK firmware. Built for workflow customization, coding shortcuts, and just a fun hardware project!
 
 ## Features
 
