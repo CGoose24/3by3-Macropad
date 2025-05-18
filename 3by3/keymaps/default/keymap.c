@@ -4,12 +4,6 @@
 #include QMK_KEYBOARD_H
 #include "config_led.h"
 
-/*
-#include "keymap_croatian.h"
-#include "sendstring_croatian.h"
-*/
-
-
 
 enum custom_keycodes
 {
@@ -72,44 +66,3 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     return true;
 }
 
-//const uint8_t RGBLED_GRADIENT_RANGES[] PROGMEM = {165, 173, 182, 191, 199};
-
-//RGB LIGHT LAYERS:
-/*
-const rgblight_segment_t PROGMEM white_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 6, HSV_PURPLE}
-);
-
-const rgblight_segment_t* const PROGMEM my_rgb_layers[] = RGBLIGHT_LAYERS_LIST(
-    white_layer  // Layer 0
-);
-
-void keyboard_post_init_user(void) {
-    rgblight_layers = my_rgb_layers;
-}
-
-
-layer_state_t layer_state_set_user(layer_state_t state) {
-    // Turn on white layer if Layer 1 is active
-    rgblight_set_layer_state(0, layer_state_cmp(state, 1));
-    return state;
-}
-*/
-
-
-/*
-bool process_record_user(uint16_t keycode, keyrecord_t *record) {
-    switch(keycode) {
-        case SS:
-            if (record->event.pressed) {
-                SEND_STRING(SS_DOWN(X_LGUI) SS_DOWN(X_LSHIFT) SS_TAP(S));
-            }
-            else {
-                //key released
-            }
-
-            break;
-    }
-    return true;
-};
-*/
