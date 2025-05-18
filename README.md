@@ -34,5 +34,5 @@ A custom hand-wired 3x3 macropad powered by an Arduino Pro Micro, featuring per-
 - Firmware powered by [QMK Firmware](https://qmk.fm/)
 - Project Inspired by the [Joe Scotto YouTube channel](https://www.youtube.com/@joe_scotto/)
 
----
+
 ## Gallery
